@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliernok
+- 👋 Hi, I’m  Ali Eren Ok
 - 👀 I’m interested in software
 - 🌱 I’m currently learning java script,java and other software language 
 - 💞️ I’m looking to collaborate on ...
